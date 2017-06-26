@@ -9,6 +9,7 @@ body
 
   background-repeat:no-repeat;
 
-  background-size: 10%;
+  background-size: cover;
+  background-position: top;
 
 }
