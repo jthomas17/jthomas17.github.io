@@ -1,0 +1,13 @@
+h1 {
+
+  font-family: "Times New Roman", Times, serif;
+  font-size: 100px;
+}
+body
+{
+  background-image:url(3105thomas.jpg);
+
+  background-repeat:no-repeat;
+
+  background-size:100%;
+}
