@@ -3,23 +3,12 @@ h1 {
   font-family: "Times New Roman", Times, serif;
   font-size: 100px;
 }
-img
-{
-  height: 100px;
-  width: 50%;
-}
 body
 {
   background-image:url(3105thomas.jpg);
 
   background-repeat:no-repeat;
-
-<<<<<<< HEAD
   background-size:     cover;
   background-position: top;
-=======
-  background-size: cover;
-  background-position: top;
 /*adding a comment ot hopefully make this work*/
->>>>>>> 385cce4757d9ea7779839306fc1d61a6a1dd58e4
 }
