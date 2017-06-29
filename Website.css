@@ -10,6 +10,7 @@ h1 {
 
   font-size: 100px;
 }
+<<<<<<< HEAD
 h2{
   font-family: "Times New Roman", Times, serif;
 
@@ -26,12 +27,22 @@ img
   height: 100px;
   width: 50%;
 }
+=======
+>>>>>>> 9515eee4cad46371c76bfe3050fd7934b6990804
 body
 {
   background-image:url(3105thomas.jpg);
 
   background-repeat:no-repeat;
+<<<<<<< HEAD
 
   background-size:     cover;
   background-position: top;
+=======
+  background-size:     cover;
+  background-position: top;
+/*adding a comment ot hopefully make this work*/
+>>>>>>> 9515eee4cad46371c76bfe3050fd7934b6990804
 }
+
+
