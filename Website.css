@@ -9,12 +9,12 @@ h3{
   color: rgba(255,255,255,.5);
   font-size: 30px;
 }
-.center{
+div{
   font-family: "Times New Roman", Times, serif;
   text-align: center;
   color: rgba(255,255,255,.5);
 }
-.left {
+h2 {
     display: inline-block;
     margin-right:100px;
     margin-left: 100px;
