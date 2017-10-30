@@ -4,6 +4,17 @@ h1 {
   color: rgba(255,255,255,.5);
   font-size: 50px;
 }
+h2 {
+  font-family: "Ariel", Times, serif;
+  color: rgba(255,255,255,.5);
+  font-size: 40px;
+}
+
+h3{
+  font-family: "Times New Roman", Times, serif;
+  color: rgba(100,0,0,1.0);
+  font-size: 35px;
+}
 body
 {
   background-image:url(3116thomas.jpg);
